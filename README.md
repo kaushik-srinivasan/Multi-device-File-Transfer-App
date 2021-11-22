@@ -1,7 +1,7 @@
 # Multi-device-File-Transfer-App
 
 Problem Statement and Solution- Transfering files between devices over a network has become a hassle as various applications either cap the transfer size or limit the size of files that can be transfered. It also comes with unwanted plugins and advertisements which make the application heavy and undesirable to use.
-The solution is to develop an app that employs the common feature in all devices, the web. Instead of creating a specific application for file transfer which has proven to be a hassle, a simple and lite program that can run in the background which can transfer files using your browser can be created. This has been achieved at a small scale for upto 100 clients requesting for files simultaneously with negligible drop in transfer speed WITHOUT THE USE OF INTERNET DATA.
+The solution is to develop an app that employs the common feature in all devices, the web. Instead of creating a specific application for file transfer which has proven to be a hassle, a simple and lite program that can run in the background which can transfer files using your browser can be created. This has been achieved at a small scale for upto 100 clients with simultaneous requests for different files with negligible drop in transfer speed (~6 MB/S) and WITHOUT THE NEED FOR INTERNET DATA.
 
 The application is very light ~5.25 MB and once run is very simple to use providing quick response and flexibility.
 
