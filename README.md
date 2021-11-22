@@ -19,3 +19,6 @@ Instructions-
 The app can run in the backend without disturbing the user and the clients can access the server using any browser on any device running any OS.
 
 *For security(yet to be implemented) reasons, create a separate directory for file transfers and change the port number if required. 
+
+Bug Fixes (in progress)-
+After uploading a file to the server, there is an error message. IGNORE IT.
